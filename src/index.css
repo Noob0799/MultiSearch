@@ -48,11 +48,10 @@
 
 .auto-suggestions-container {
   margin-top: 5px;
-  padding: 10px;
   border: none;
   box-shadow: 0 0 5px grey;
   width: 80%;
-  overflow-y: scroll;
+  overflow-y: auto;
   max-height: 400px;
   display: flex;
   flex-direction: column;
